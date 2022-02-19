@@ -561,9 +561,9 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: 
+    1: USE_TEST_DATABASE;SKIP_TO_LEVEL_11
     4: 4
-    7: 
+    7: USE_TEST_DATABASE;SKIP_TO_LEVEL_11
     13: 4
     14: 4
     19: 4
